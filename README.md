@@ -1,4 +1,5 @@
 # IBM WebSphere Application Server Liberty Buildpack [![Build Status](https://travis-ci.org/cloudfoundry/ibm-websphere-liberty-buildpack.svg?branch=master)](https://travis-ci.org/cloudfoundry/ibm-websphere-liberty-buildpack)
+# Patrice version - for SSLv3 removal
 
 The `liberty-buildpack` is a [Cloud Foundry][] Buildpack for running applications on IBM's WebSphere Application Server [Liberty Profile][].
 
